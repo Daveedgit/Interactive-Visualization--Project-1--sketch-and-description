@@ -10,6 +10,7 @@ Please see the result of a recent brainstorming sessions with colleague sstudent
 
 ![David   Kai (1)](https://user-images.githubusercontent.com/60953851/113631058-dc19a280-9636-11eb-9ebc-c7ed487c2aa7.jpg)
 
+The page will have the tittle 
 
 
 
